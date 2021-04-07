@@ -1,0 +1,13 @@
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\bin\Debug\netcoreapp3.1\Chifoumi.exe
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\bin\Debug\netcoreapp3.1\Chifoumi.deps.json
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\bin\Debug\netcoreapp3.1\Chifoumi.runtimeconfig.json
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\bin\Debug\netcoreapp3.1\Chifoumi.runtimeconfig.dev.json
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\bin\Debug\netcoreapp3.1\Chifoumi.dll
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\bin\Debug\netcoreapp3.1\Chifoumi.pdb
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\obj\Debug\netcoreapp3.1\Chifoumi.csprojAssemblyReference.cache
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\obj\Debug\netcoreapp3.1\Chifoumi.AssemblyInfoInputs.cache
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\obj\Debug\netcoreapp3.1\Chifoumi.AssemblyInfo.cs
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\obj\Debug\netcoreapp3.1\Chifoumi.csproj.CoreCompileInputs.cache
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\obj\Debug\netcoreapp3.1\Chifoumi.dll
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\obj\Debug\netcoreapp3.1\Chifoumi.pdb
+C:\Users\stopp\RiderProjects\Chifoumi\Chifoumi\obj\Debug\netcoreapp3.1\Chifoumi.genruntimeconfig.cache
